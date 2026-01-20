@@ -1,25 +1,43 @@
-# Python Capstone Project – Data Analysis
-
-## Author
-Bhawana Vishwakarma
+# 🐍 Python Capstone Project – Data Analysis
+## By Bhawana Vishwakarma
 
 ---
 
-## Project Description
-This Python capstone project focuses on data analysis using Python.
-It includes data cleaning, exploration, and visualization.
+## 📌 Project Description
+This capstone project is part of my Python Fundamentals learning, where I performed data analysis using Python to explore project cost data and extract meaningful insights.
 
 ---
 
-## Tools & Libraries Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+## 🛠️ Tools & Libraries Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook  
 
 ---
 
-## Project Files
-- Capstone_Project.ipynb – analysis notebook
-- TotalProjCost.xls – dataset
+## 📊 Key Activities
+- Importing and exploring the dataset  
+- Data cleaning and preprocessing  
+- Performing calculations and aggregations  
+- Analyzing total project cost data  
+- Visualizing insights using charts  
+
+---
+
+## 📁 Files Included
+- `Capstone_Project.ipynb` – Python analysis notebook  
+- `TotalProjCost.xlsx` – Dataset used for analysis  
+- `Capstone project - Python Fundamentals.pdf` – Project problem statement  
+
+---
+
+## 🎯 Learning Outcome
+- Strong understanding of Python fundamentals  
+- Hands-on experience with Pandas & NumPy  
+- Practical exposure to data analysis workflow  
+
+---
+
+⭐ Created for learning and portfolio purposes.
