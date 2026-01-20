@@ -1,4 +1,4 @@
-##🍽️ Restaurant Sales Dashboard – Power BI
+#🍽️ Restaurant Sales Dashboard – Power BI
 
 Author: Bhawana Vishwakarma
 
